@@ -1,0 +1,20 @@
+working directory --> stagging area    --> local repository --> remote repository
+test-porject      --> git add filename --> git comit        --> git push
+
+
+change Control  (stagging Area)
+version Control (local repository)
+
+
+
+Commands
+==============
+git status
+git init
+git add file1.txt
+git reset file1.txt     //ustage file
+git add .               //add all files to stage
+git reset               //unsatge all files
+git diff                //Changes Control
+git restore text.txt    //
+
