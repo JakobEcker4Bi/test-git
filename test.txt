@@ -4,4 +4,4 @@ code.       //öffnet VSC mit dem WorkingDirectory
 explorer.   //öffnet Explorer mit aktuellem Verzeichnis
 
 
-Hallo mein Name ist Jakob Ecker
+Hallo mein Name ist Jakob Ecker und ich bin 17 Jahre alt
