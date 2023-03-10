@@ -18,3 +18,13 @@ git reset               //unsatge all files
 git diff                //Changes Control
 git restore text.txt    //
 
+
+
+Version Control
+===============
+git commit -m "git command for changes control are added"
+git log                 //how many commits i have
+git --oneline
+git reset --soft HEAD^  //go back to staging area
+git reset HEAD^         //
+
